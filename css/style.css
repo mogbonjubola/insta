@@ -1,0 +1,167 @@
+
+
+.container-all{
+    display:flex;
+    bottom: 100px;
+    top: 100px;
+    overflow-y: auto;
+    
+    
+
+}
+
+.container1{
+display:flex;
+flex-direction:column;
+align-content: center;
+
+
+
+}
+.head{
+    display:flex;
+    justify-content: space-between;
+    padding:30px;
+    
+    
+    
+}
+
+
+header.div1{
+display:flex;
+justify-content: space-between;
+}
+
+div.right{
+
+width:60%;
+margin:10px;
+}
+header.img{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+
+.container2{
+    border:1px solid rgb(163, 159, 159);
+    margin:10px;
+    width:100%;
+    border-radius:2px;
+
+}
+
+
+.man{display:flex;}
+
+.img-rounded,.c-img{
+    border-radius:50%;
+    border:2px solid fuchsia;
+    padding:2px;
+
+}
+
+.img-rounded2{
+    border-radius:50%;
+    padding:2px;
+}
+.header2{
+    padding:10px;
+    display: flex;
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+}
+
+div.img,.comment{
+    padding:10px;
+}
+
+div.img-div{
+    background-image: url("/img/Isiwat.(6).jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:100vh;
+    background-position:center;
+}
+
+div.img-div2{
+    background-image: url("/img/man.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:100vh;
+    background-position:center;
+}
+
+div.img-div3{
+    background-image: url("/img/tun.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:100vh;
+    background-position:center;
+}
+div.icons{display:flex;
+justify-content: space-between;
+padding:10px;
+}
+div.footer{
+    display:flex;
+    justify-content: space-between;
+    padding:10px;
+
+}
+
+
+
+
+h6{display:inline;}
+
+.stories{
+    display: flex;
+    justify-content: space-between;
+color: white;
+padding: 15px;
+width: 90%;
+height: 220px;
+overflow: auto;
+border: 1px solid rgb(167, 165, 165);
+border-radius:5px;
+}
+
+.right1{
+    display:flex;
+}
+
+#bl{
+    display:block;
+}
+.follow{
+    display: flex;
+    justify-content: space-between;
+    margin-top:20px;
+    width:90%;
+    height:220px;
+    border:1px solid gray;
+    border-radius: 5px;
+    padding:10px;
+    overflow:hidden;
+}
+.link{
+    display:block;
+    font-size: 14px;
+    text-decoration:none;
+    text-align:center;
+    line-height:3.8em;
+}
+.head-div{display:flex;
+    justify-content: space-between;
+}
+.pics{padding:5px;}
+.second-div.h6{display:inline;}
+.img-font{display:flex;
+      justify-content: space-between;
+}
